@@ -138,6 +138,20 @@ $(function(){
 	});
 });
 
+function updateNumber() { 
+//Cada dos segundos se conecta a la Api y obtiene cuantos tweets ha procesado la configuracion
+	setTimeout(
+    	function(){ $.ajax({ url: 'http://localhost:8080/voteCount/', type: 'GET', async:false, dataType: "json",
+        	success: function(resultData) {
+	            document.getElementById('voteYellow').innerHTML = resultData.countVoteYellow;
+	            document.getElementById('voteBlue').innerHTML = resultData.countVoteBlue;
+	            document.getElementById('voteRed').innerHTML = resultData.countVoteRed;
+	            setTimeout("updateNumber()", 2000);
+        	}
+        });
+    }, 2000);
+}
+
 $(document).ready(function(){
 	document.getElementById("label-user").innerHTML = localStorage.getItem("username");
 
@@ -145,4 +159,6 @@ $(document).ready(function(){
 		localStorage.clear();
 		window.location.href = "http://localhost:8080/"	
 	});
+
+	updateNumber();
 });

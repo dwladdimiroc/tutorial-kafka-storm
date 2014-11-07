@@ -71,6 +71,20 @@ app.get('/tweetCount/', function(req, res){
 	});
 });
 
+//Devuelve la cantidad de votos que se poseen en la base de datos
+app.get('/voteCount/', function(req, res){
+	//logger.debug('tweetClassifier');
+	var collec = ['countVote'];
+	var db = require("mongojs").connect(databaseUrl, collec);
+	var collection = db.collection('countVote');
+
+	collection.find().sort( { _id: -1 } ).limit(1).toArray(function(error, results) {
+    	if(error) res.send('Error connection');
+    	//logger.debug(numTweet);
+    	res.send('{"countVoteRed":"'+results[0].red+'","countVoteYellow":"'+results[0].yellow+'","countVoteBlue":"'+results[0].blue+'"}');
+	});
+});
+
 //Guardar un tweet en base a un método POST
 app.post('/login', function(req, res){
 	logger.debug('Register Post');
