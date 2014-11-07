@@ -1,1 +1,1 @@
-../bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic test --from-beginning
+../bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic $1 --from-beginning

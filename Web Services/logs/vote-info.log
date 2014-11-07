@@ -59,3 +59,185 @@
 {"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T12:27:40.664Z"}
 {"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T12:27:40.827Z"}
 {"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T12:27:40.974Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T20:03:40.292Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T20:03:40.299Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T20:03:40.391Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T20:03:40.553Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:17:50.446Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:17:50.624Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:17:50.792Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:19:16.092Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:19:52.868Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:51:14.471Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:51:14.624Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:51:14.793Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:51:38.735Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:51:38.895Z"}
+{"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T23:52:28.530Z"}
+{"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T23:52:28.663Z"}
+{"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T23:53:07.639Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:53:07.958Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:53:08.094Z"}
+{"level":"info","message":"The user Pablo2 vote for yellow","timestamp":"2014-11-06T23:53:58.469Z"}
+{"level":"info","message":"The user Pablo2 vote for blue","timestamp":"2014-11-06T23:53:58.976Z"}
+{"level":"info","message":"The user Pablo2 vote for red","timestamp":"2014-11-06T23:53:59.409Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:06:23.157Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:10:32.925Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:10:33.050Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:13:02.187Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:13:02.494Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:14:53.629Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:16:04.331Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:18:47.445Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:19:54.564Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:20:28.414Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:21:26.257Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:21:46.137Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:21:46.296Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:21:46.452Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:24:45.096Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:24:45.242Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:25:19.655Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:26:41.978Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:28:53.828Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:31:23.816Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:31:25.124Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:31:25.263Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:25.825Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:25.980Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:31:26.415Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:31:26.582Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:31:27.271Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:28.004Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:28.168Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:28.310Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:31:28.463Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:32:46.404Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:33:00.961Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:33:08.090Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:33:08.259Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:33:08.818Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:33:08.977Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:34:34.946Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:34:35.103Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:34:35.799Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:34:35.973Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:34:36.894Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:34:37.038Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:36:36.488Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:36:42.136Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:36:42.295Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:36:42.741Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:36:42.900Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:36:43.436Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:36:43.565Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:38:30.258Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:38:30.415Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:38:40.817Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:38:41.008Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:40:19.758Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:40:19.987Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:40:59.501Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:40:59.741Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:42:40.593Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:42:40.759Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:44:14.639Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:44:14.989Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:45:59.576Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:45:59.755Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:46:00.857Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:46:01.020Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:46:02.847Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:46:03.076Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:46:05.538Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:46:48.952Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:46:49.180Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:08.867Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:09.044Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:09.200Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:09.349Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:09.522Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:09.684Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.134Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.297Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.453Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.601Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.765Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:50.944Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:51.096Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:51.246Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:51.408Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:52.713Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:52.863Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:53.006Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:53.151Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T00:47:53.308Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:05.393Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:05.547Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:05.692Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:05.835Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:06.001Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:06.682Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:06.844Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:07.023Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:07.165Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:07.324Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:07.484Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:07.654Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:08.094Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:08.245Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"blue\"}","timestamp":"2014-11-07T00:48:08.411Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:08.669Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"red\"}","timestamp":"2014-11-07T00:48:08.816Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:36.943Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.092Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.221Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.380Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.536Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.695Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.839Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:37.997Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.144Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.293Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.469Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.614Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.773Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:38.943Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.108Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.270Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.447Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.618Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.801Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:39.987Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:40.158Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:40.336Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:40.515Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:40.686Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:40.835Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:41.010Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:41.175Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:41.338Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:01:41.486Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:06.402Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:06.560Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:06.729Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:06.897Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:07.073Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:07.229Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:07.399Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:07.544Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:45.983Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.143Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.293Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.439Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.594Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.747Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:46.891Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.056Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.205Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.361Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.498Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.641Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.780Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:47.924Z"}
+{"level":"info","message":"{\"userLog\":\"Pablo2\",\"voteLog\":\"yellow\"}","timestamp":"2014-11-07T01:05:48.100Z"}

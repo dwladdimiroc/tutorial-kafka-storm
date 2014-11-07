@@ -173,7 +173,12 @@ app.post('/vote', function(req, res){
 	var vote = JSON.parse(req.body.vote);
 	var color = req.body.color;
 
-	logger.info('The user ' + user + ' vote for ' + color);
+	var log = {
+		userLog: user,
+		voteLog: color
+	}
+
+	logger.info(JSON.stringify(log));
 	//logger.debug(vote);
 
 	db.voteList.update(

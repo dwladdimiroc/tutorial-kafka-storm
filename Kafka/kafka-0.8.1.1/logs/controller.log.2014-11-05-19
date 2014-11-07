@@ -1,4 +1,0 @@
-[2014-11-05 19:58:41,328] INFO [Controller-0-to-broker-0-send-thread], Shutting down (kafka.controller.RequestSendThread)
-[2014-11-05 19:58:41,329] INFO [Controller-0-to-broker-0-send-thread], Stopped  (kafka.controller.RequestSendThread)
-[2014-11-05 19:58:41,329] INFO [Controller-0-to-broker-0-send-thread], Shutdown completed (kafka.controller.RequestSendThread)
-[2014-11-05 19:58:41,329] INFO [Controller 0]: Controller shutdown complete (kafka.controller.KafkaController)

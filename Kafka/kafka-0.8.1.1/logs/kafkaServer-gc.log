@@ -1,14 +1,66 @@
 Java HotSpot(TM) 64-Bit Server VM (25.11-b03) for linux-amd64 JRE (1.8.0_11-b12), built on Jun 16 2014 17:29:59 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
-Memory: 4k page, physical 8086164k(5897424k free), swap 0k(0k free)
+Memory: 4k page, physical 8086164k(3930936k free), swap 0k(0k free)
 CommandLine flags: -XX:+CMSClassUnloadingEnabled -XX:+CMSScavengeBeforeRemark -XX:+DisableExplicitGC -XX:InitialHeapSize=1073741824 -XX:+ManagementServer -XX:MaxHeapSize=1073741824 -XX:MaxNewSize=357916672 -XX:MaxTenuringThreshold=6 -XX:NewSize=357916672 -XX:OldPLABSize=16 -XX:OldSize=715825152 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+UseParNewGC 
-2014-11-05T18:24:11.249-0300: 1348,616: [GC (Allocation Failure) 1348,616: [ParNew: 279616K->11640K(314560K), 0,0130258 secs] 279616K->11640K(1013632K), 0,0131958 secs] [Times: user=0,05 sys=0,00, real=0,02 secs] 
-2014-11-05T19:07:17.376-0300: 3934,743: [GC (Allocation Failure) 3934,743: [ParNew: 291256K->9010K(314560K), 0,0075417 secs] 291256K->9010K(1013632K), 0,0075965 secs] [Times: user=0,03 sys=0,01, real=0,01 secs] 
-2014-11-05T19:53:13.252-0300: 6690,618: [GC (Allocation Failure) 6690,618: [ParNew: 288626K->7751K(314560K), 0,0100645 secs] 288626K->7751K(1013632K), 0,0101657 secs] [Times: user=0,06 sys=0,00, real=0,01 secs] 
+2014-11-06T17:30:36.576-0300: 1746,649: [GC (Allocation Failure) 1746,649: [ParNew: 279616K->13491K(314560K), 0,0156926 secs] 279616K->13491K(1013632K), 0,0158453 secs] [Times: user=0,05 sys=0,03, real=0,02 secs] 
+2014-11-06T18:16:33.113-0300: 4503,186: [GC (Allocation Failure) 4503,186: [ParNew: 293107K->12720K(314560K), 0,0125722 secs] 293107K->12720K(1013632K), 0,0126352 secs] [Times: user=0,08 sys=0,00, real=0,01 secs] 
+2014-11-06T19:03:48.700-0300: 7338,773: [GC (Allocation Failure) 7338,773: [ParNew: 292336K->15883K(314560K), 0,0145223 secs] 292336K->15883K(1013632K), 0,0146188 secs] [Times: user=0,07 sys=0,00, real=0,02 secs] 
+2014-11-06T19:52:29.317-0300: 10259,390: [GC (Allocation Failure) 10259,390: [ParNew: 295499K->12230K(314560K), 0,0118214 secs] 295499K->12230K(1013632K), 0,0119517 secs] [Times: user=0,07 sys=0,00, real=0,01 secs] 
+2014-11-06T20:19:24.963-0300: 11875,036: [GC (Allocation Failure) 11875,036: [ParNew: 291846K->6895K(314560K), 0,0056790 secs] 291846K->6895K(1013632K), 0,0057667 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2014-11-06T20:20:32.902-0300: 11942,974: [GC (Allocation Failure) 11942,974: [ParNew: 286511K->5337K(314560K), 0,0087956 secs] 286511K->5337K(1013632K), 0,0089201 secs] [Times: user=0,05 sys=0,00, real=0,01 secs] 
+2014-11-06T20:21:42.179-0300: 12012,251: [GC (Allocation Failure) 12012,251: [ParNew: 284953K->3608K(314560K), 0,0099737 secs] 284953K->6516K(1013632K), 0,0100502 secs] [Times: user=0,07 sys=0,00, real=0,01 secs] 
+2014-11-06T20:22:54.359-0300: 12084,432: [GC (Allocation Failure) 12084,432: [ParNew: 283224K->3203K(314560K), 0,0063099 secs] 286132K->6118K(1013632K), 0,0064095 secs] [Times: user=0,04 sys=0,00, real=0,01 secs] 
+2014-11-06T20:24:06.631-0300: 12156,703: [GC (Allocation Failure) 12156,703: [ParNew: 282819K->3776K(314560K), 0,0100423 secs] 285734K->6692K(1013632K), 0,0101607 secs] [Times: user=0,09 sys=0,00, real=0,01 secs] 
+2014-11-06T20:25:18.488-0300: 12228,561: [GC (Allocation Failure) 12228,561: [ParNew: 283392K->4499K(314560K), 0,0087829 secs] 286308K->7416K(1013632K), 0,0088856 secs] [Times: user=0,07 sys=0,00, real=0,01 secs] 
+2014-11-06T20:26:29.744-0300: 12299,816: [GC (Allocation Failure) 12299,816: [ParNew: 284115K->5485K(314560K), 0,0095438 secs] 287032K->8437K(1013632K), 0,0096742 secs] [Times: user=0,08 sys=0,00, real=0,01 secs] 
+2014-11-06T20:27:41.616-0300: 12371,688: [GC (Allocation Failure) 12371,688: [ParNew: 285101K->7342K(314560K), 0,0076405 secs] 288053K->10602K(1013632K), 0,0077670 secs] [Times: user=0,04 sys=0,00, real=0,00 secs] 
+2014-11-06T20:28:53.845-0300: 12443,917: [GC (Allocation Failure) 12443,917: [ParNew: 286958K->6325K(314560K), 0,0129970 secs] 290218K->10176K(1013632K), 0,0130878 secs] [Times: user=0,07 sys=0,01, real=0,01 secs] 
+2014-11-06T20:30:06.449-0300: 12516,522: [GC (Allocation Failure) 12516,522: [ParNew: 285941K->8120K(314560K), 0,0131189 secs] 289792K->12595K(1013632K), 0,0132067 secs] [Times: user=0,10 sys=0,00, real=0,01 secs] 
+2014-11-06T20:31:18.853-0300: 12588,926: [GC (Allocation Failure) 12588,926: [ParNew: 287736K->5415K(314560K), 0,0090576 secs] 292211K->9907K(1013632K), 0,0091963 secs] [Times: user=0,06 sys=0,00, real=0,00 secs] 
+2014-11-06T20:32:31.119-0300: 12661,191: [GC (Allocation Failure) 12661,192: [ParNew: 285031K->7920K(314560K), 0,0142434 secs] 289523K->12458K(1013632K), 0,0143677 secs] [Times: user=0,11 sys=0,00, real=0,02 secs] 
+2014-11-06T20:33:42.462-0300: 12732,534: [GC (Allocation Failure) 12732,534: [ParNew: 287536K->10082K(314560K), 0,0132807 secs] 292074K->14755K(1013632K), 0,0134085 secs] [Times: user=0,11 sys=0,00, real=0,02 secs] 
+2014-11-06T20:34:54.014-0300: 12804,087: [GC (Allocation Failure) 12804,087: [ParNew: 289698K->11303K(314560K), 0,0154037 secs] 294371K->16366K(1013632K), 0,0154800 secs] [Times: user=0,13 sys=0,00, real=0,01 secs] 
+2014-11-06T20:36:06.300-0300: 12876,373: [GC (Allocation Failure) 12876,373: [ParNew: 290919K->11793K(314560K), 0,0128854 secs] 295982K->17622K(1013632K), 0,0130089 secs] [Times: user=0,09 sys=0,00, real=0,02 secs] 
+2014-11-06T20:37:18.425-0300: 12948,498: [GC (Allocation Failure) 12948,498: [ParNew: 291409K->12305K(314560K), 0,0142681 secs] 297238K->19065K(1013632K), 0,0143891 secs] [Times: user=0,10 sys=0,00, real=0,01 secs] 
+2014-11-06T20:38:30.735-0300: 13020,808: [GC (Allocation Failure) 13020,808: [ParNew: 291921K->13439K(314560K), 0,0164093 secs] 298681K->21421K(1013632K), 0,0165347 secs] [Times: user=0,14 sys=0,00, real=0,02 secs] 
+2014-11-06T20:39:42.712-0300: 13092,784: [GC (Allocation Failure) 13092,784: [ParNew: 293055K->13039K(314560K), 0,0173914 secs] 301037K->22693K(1013632K), 0,0175209 secs] [Times: user=0,13 sys=0,00, real=0,01 secs] 
+2014-11-06T20:40:54.458-0300: 13164,530: [GC (Allocation Failure) 13164,530: [ParNew: 292655K->14480K(314560K), 0,0176511 secs] 302309K->25768K(1013632K), 0,0177708 secs] [Times: user=0,13 sys=0,00, real=0,02 secs] 
+2014-11-06T20:42:06.172-0300: 13236,244: [GC (Allocation Failure) 13236,244: [ParNew: 294096K->12126K(314560K), 0,0169899 secs] 305384K->25097K(1013632K), 0,0170930 secs] [Times: user=0,13 sys=0,00, real=0,01 secs] 
+2014-11-06T20:43:17.941-0300: 13308,014: [GC (Allocation Failure) 13308,014: [ParNew: 291742K->13360K(314560K), 0,0159779 secs] 304713K->27984K(1013632K), 0,0160839 secs] [Times: user=0,12 sys=0,00, real=0,02 secs] 
+2014-11-06T20:44:30.110-0300: 13380,182: [GC (Allocation Failure) 13380,182: [ParNew: 292976K->13380K(314560K), 0,0152131 secs] 307600K->29630K(1013632K), 0,0153173 secs] [Times: user=0,11 sys=0,00, real=0,02 secs] 
+2014-11-06T20:45:41.347-0300: 13451,420: [GC (Allocation Failure) 13451,420: [ParNew: 292996K->13397K(314560K), 0,0154348 secs] 309246K->31307K(1013632K), 0,0155657 secs] [Times: user=0,12 sys=0,00, real=0,01 secs] 
+2014-11-06T20:46:53.345-0300: 13523,417: [GC (Allocation Failure) 13523,417: [ParNew: 293013K->13386K(314560K), 0,0150366 secs] 310923K->32957K(1013632K), 0,0151341 secs] [Times: user=0,12 sys=0,00, real=0,01 secs] 
+2014-11-06T20:48:05.538-0300: 13595,610: [GC (Allocation Failure) 13595,610: [ParNew: 293002K->9723K(314560K), 0,0132427 secs] 312573K->30331K(1013632K), 0,0133688 secs] [Times: user=0,11 sys=0,00, real=0,01 secs] 
+2014-11-06T20:49:17.712-0300: 13667,785: [GC (Allocation Failure) 13667,785: [ParNew: 289339K->10056K(314560K), 0,0118597 secs] 309947K->31709K(1013632K), 0,0121060 secs] [Times: user=0,06 sys=0,00, real=0,01 secs] 
+2014-11-06T20:53:06.271-0300: 13896,344: [GC (Allocation Failure) 13896,344: [ParNew: 289672K->10729K(314560K), 0,0123316 secs] 311325K->33432K(1013632K), 0,0123888 secs] [Times: user=0,10 sys=0,00, real=0,02 secs] 
+2014-11-06T20:54:17.018-0300: 13967,090: [GC (Allocation Failure) 13967,090: [ParNew: 290345K->14304K(314560K), 0,0139431 secs] 313048K->38047K(1013632K), 0,0140467 secs] [Times: user=0,11 sys=0,00, real=0,01 secs] 
+2014-11-06T20:55:28.778-0300: 14038,851: [GC (Allocation Failure) 14038,851: [ParNew: 293920K->12120K(314560K), 0,0165971 secs] 317663K->36905K(1013632K), 0,0167180 secs] [Times: user=0,14 sys=0,00, real=0,02 secs] 
+2014-11-06T20:56:39.528-0300: 14109,600: [GC (Allocation Failure) 14109,600: [ParNew: 291736K->14435K(314560K), 0,0166605 secs] 316521K->40302K(1013632K), 0,0167563 secs] [Times: user=0,11 sys=0,00, real=0,02 secs] 
+2014-11-06T21:10:26.558-0300: 14936,630: [GC (Allocation Failure) 14936,630: [ParNew: 294051K->16639K(314560K), 0,0159223 secs] 319918K->43567K(1013632K), 0,0159937 secs] [Times: user=0,12 sys=0,00, real=0,02 secs] 
+2014-11-06T21:16:02.712-0300: 15272,784: [GC (Allocation Failure) 15272,784: [ParNew: 296255K->13969K(314560K), 0,0115155 secs] 323183K->41958K(1013632K), 0,0116034 secs] [Times: user=0,08 sys=0,00, real=0,01 secs] 
+2014-11-06T21:20:02.293-0300: 15512,365: [GC (Allocation Failure) 15512,366: [ParNew: 293585K->11002K(314560K), 0,0152387 secs] 321574K->41334K(1013632K), 0,0153506 secs] [Times: user=0,10 sys=0,00, real=0,01 secs] 
+2014-11-06T21:28:45.513-0300: 16035,585: [GC (Allocation Failure) 16035,585: [ParNew: 290618K->8388K(314560K), 0,0107030 secs] 320950K->40727K(1013632K), 0,0107872 secs] [Times: user=0,06 sys=0,00, real=0,00 secs] 
+2014-11-06T21:31:47.712-0300: 16217,784: [GC (Allocation Failure) 16217,784: [ParNew: 288004K->6115K(314560K), 0,0071685 secs] 320343K->39700K(1013632K), 0,0072561 secs] [Times: user=0,04 sys=0,00, real=0,01 secs] 
+2014-11-06T21:33:42.342-0300: 16332,415: [GC (Allocation Failure) 16332,415: [ParNew: 285731K->4677K(314560K), 0,0147639 secs] 319316K->39412K(1013632K), 0,0149068 secs] [Times: user=0,10 sys=0,00, real=0,02 secs] 
+2014-11-06T21:35:14.978-0300: 16425,051: [GC (Allocation Failure) 16425,051: [ParNew: 284293K->2304K(314560K), 0,0086813 secs] 319028K->38582K(1013632K), 0,0087806 secs] [Times: user=0,06 sys=0,00, real=0,01 secs] 
+2014-11-06T21:36:20.711-0300: 16490,783: [GC (Allocation Failure) 16490,784: [ParNew: 281920K->1757K(314560K), 0,0089945 secs] 318198K->38046K(1013632K), 0,0090936 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2014-11-06T21:37:36.053-0300: 16566,125: [GC (Allocation Failure) 16566,126: [ParNew: 281373K->1761K(314560K), 0,0070540 secs] 317662K->38102K(1013632K), 0,0072182 secs] [Times: user=0,03 sys=0,00, real=0,00 secs] 
+2014-11-06T21:39:24.189-0300: 16674,261: [GC (Allocation Failure) 16674,261: [ParNew: 281377K->1524K(314560K), 0,0076846 secs] 317718K->37871K(1013632K), 0,0078317 secs] [Times: user=0,04 sys=0,00, real=0,01 secs] 
+2014-11-06T21:40:40.169-0300: 16750,242: [GC (Allocation Failure) 16750,242: [ParNew: 281140K->1370K(314560K), 0,0097287 secs] 317487K->37720K(1013632K), 0,0099110 secs] [Times: user=0,05 sys=0,00, real=0,01 secs] 
+2014-11-06T21:41:48.048-0300: 16818,121: [GC (Allocation Failure) 16818,121: [ParNew: 280986K->1607K(314560K), 0,0047331 secs] 317336K->37959K(1013632K), 0,0049113 secs] [Times: user=0,03 sys=0,00, real=0,01 secs] 
+2014-11-06T21:42:45.439-0300: 16875,512: [GC (Allocation Failure) 16875,512: [ParNew: 281223K->1296K(314560K), 0,0059536 secs] 317575K->37651K(1013632K), 0,0060735 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2014-11-06T21:43:26.732-0300: 16916,805: [GC (Allocation Failure) 16916,805: [ParNew: 280912K->1832K(314560K), 0,0090185 secs] 317267K->38188K(1013632K), 0,0091558 secs] [Times: user=0,05 sys=0,00, real=0,00 secs] 
+2014-11-06T21:44:48.080-0300: 16998,153: [GC (Allocation Failure) 16998,153: [ParNew: 281448K->2552K(314560K), 0,0084833 secs] 317804K->38913K(1013632K), 0,0086598 secs] [Times: user=0,04 sys=0,00, real=0,01 secs] 
+2014-11-06T21:45:55.999-0300: 17066,072: [GC (Allocation Failure) 17066,072: [ParNew: 282168K->4243K(314560K), 0,0092164 secs] 318529K->40619K(1013632K), 0,0093444 secs] [Times: user=0,07 sys=0,00, real=0,01 secs] 
+2014-11-06T21:47:02.712-0300: 17132,784: [GC (Allocation Failure) 17132,784: [ParNew: 283859K->5026K(314560K), 0,0066139 secs] 320235K->41445K(1013632K), 0,0067335 secs] [Times: user=0,02 sys=0,00, real=0,01 secs] 
+2014-11-06T21:48:10.622-0300: 17200,694: [GC (Allocation Failure) 17200,694: [ParNew: 284642K->6697K(314560K), 0,0113619 secs] 321061K->43242K(1013632K), 0,0115062 secs] [Times: user=0,07 sys=0,00, real=0,02 secs] 
+2014-11-06T22:01:57.892-0300: 18027,965: [GC (Allocation Failure) 18027,965: [ParNew: 286313K->14871K(314560K), 0,0170905 secs] 322858K->51748K(1013632K), 0,0171826 secs] [Times: user=0,14 sys=0,00, real=0,01 secs] 
+2014-11-06T22:03:03.840-0300: 18093,913: [GC (Allocation Failure) 18093,913: [ParNew: 294487K->18319K(314560K), 0,0187175 secs] 331364K->55654K(1013632K), 0,0188454 secs] [Times: user=0,13 sys=0,00, real=0,02 secs] 
+2014-11-06T22:05:20.207-0300: 18230,279: [GC (Allocation Failure) 18230,279: [ParNew: 297935K->16594K(314560K), 0,0125805 secs] 335270K->54695K(1013632K), 0,0126838 secs] [Times: user=0,10 sys=0,00, real=0,01 secs] 
 Heap
- par new generation   total 314560K, used 75215K [0x00000000c0000000, 0x00000000d5550000, 0x00000000d5550000)
-  eden space 279616K,  24% used [0x00000000c0000000, 0x00000000c41e2150, 0x00000000d1110000)
-  from space 34944K,  22% used [0x00000000d3330000, 0x00000000d3ac1e38, 0x00000000d5550000)
+ par new generation   total 314560K, used 295106K [0x00000000c0000000, 0x00000000d5550000, 0x00000000d5550000)
+  eden space 279616K,  99% used [0x00000000c0000000, 0x00000000d0ffc3b8, 0x00000000d1110000)
+  from space 34944K,  47% used [0x00000000d3330000, 0x00000000d4364830, 0x00000000d5550000)
   to   space 34944K,   0% used [0x00000000d1110000, 0x00000000d1110000, 0x00000000d3330000)
- concurrent mark-sweep generation total 699072K, used 0K [0x00000000d5550000, 0x0000000100000000, 0x0000000100000000)
- Metaspace       used 19344K, capacity 19530K, committed 19712K, reserved 1064960K
-  class space    used 3197K, capacity 3227K, committed 3328K, reserved 1048576K
+ concurrent mark-sweep generation total 699072K, used 38101K [0x00000000d5550000, 0x0000000100000000, 0x0000000100000000)
+ Metaspace       used 19305K, capacity 19546K, committed 19712K, reserved 1064960K
+  class space    used 3170K, capacity 3227K, committed 3328K, reserved 1048576K
