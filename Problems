@@ -1,7 +1,0 @@
-JVM Version
-
-sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/java-7-openjdk-amd64/bin/java" 1
-sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/lib/jvm/java-7-openjdk-amd64/bin/javac" 1
-sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/lib/jvm/java-7-openjdk-amd64/bin/javaws" 1
-
-sudo update-alternatives --config java
