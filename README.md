@@ -1,4 +1,4 @@
 Tutorial - Kafka & Storm
 =================================================
 
-Bla bla bla ver Slides
+http://www.slideshare.net/danielwladdimiro/tutorial-kafkastorm

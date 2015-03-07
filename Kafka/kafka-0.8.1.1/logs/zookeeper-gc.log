@@ -1,11 +1,11 @@
-Java HotSpot(TM) 64-Bit Server VM (25.11-b03) for linux-amd64 JRE (1.8.0_11-b12), built on Jun 16 2014 17:29:59 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
-Memory: 4k page, physical 8086164k(3976796k free), swap 0k(0k free)
+Java HotSpot(TM) 64-Bit Server VM (25.25-b02) for linux-amd64 JRE (1.8.0_25-b17), built on Sep 17 2014 17:32:11 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 16380300k(13111148k free), swap 0k(0k free)
 CommandLine flags: -XX:+CMSClassUnloadingEnabled -XX:+CMSScavengeBeforeRemark -XX:+DisableExplicitGC -XX:InitialHeapSize=536870912 -XX:+ManagementServer -XX:MaxHeapSize=536870912 -XX:MaxNewSize=178958336 -XX:MaxTenuringThreshold=6 -XX:NewSize=178958336 -XX:OldPLABSize=16 -XX:OldSize=357912576 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseConcMarkSweepGC -XX:+UseParNewGC 
 Heap
- par new generation   total 157248K, used 83873K [0x00000000e0000000, 0x00000000eaaa0000, 0x00000000eaaa0000)
-  eden space 139776K,  60% used [0x00000000e0000000, 0x00000000e51e8498, 0x00000000e8880000)
+ par new generation   total 157248K, used 39138K [0x00000000e0000000, 0x00000000eaaa0000, 0x00000000eaaa0000)
+  eden space 139776K,  28% used [0x00000000e0000000, 0x00000000e2638b88, 0x00000000e8880000)
   from space 17472K,   0% used [0x00000000e8880000, 0x00000000e8880000, 0x00000000e9990000)
   to   space 17472K,   0% used [0x00000000e9990000, 0x00000000e9990000, 0x00000000eaaa0000)
  concurrent mark-sweep generation total 349568K, used 0K [0x00000000eaaa0000, 0x0000000100000000, 0x0000000100000000)
- Metaspace       used 8909K, capacity 9050K, committed 9344K, reserved 1056768K
-  class space    used 1035K, capacity 1051K, committed 1152K, reserved 1048576K
+ Metaspace       used 9625K, capacity 9754K, committed 9856K, reserved 1058816K
+  class space    used 1103K, capacity 1149K, committed 1152K, reserved 1048576K
